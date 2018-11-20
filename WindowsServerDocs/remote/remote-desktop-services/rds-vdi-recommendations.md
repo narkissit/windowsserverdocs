@@ -267,7 +267,6 @@ Click **StartupEventTraceSessions**, then right-click **ReadyBoot**; if it is ru
 The fastest way to manage Services is to push the Windows button and type *services*. In the results that return, click **Services**. The following services are good candidates to disable for use in VDI scenarios; however, you might need to do some testing to verify that they aren't needed for your purposes. To disable a service, in the **Services** snap-in, right-click the service name, and then click **Properties**. On the **General** tab, click the **Startup type** pulldown menu, and then click **Disabled**. Click **OK**.
 
 - BranchCache
-- Delivery Optimization
 - Diagnostic Service Host
 - Windows Mobile Hotspot Service
 - Xbox Live Auth Manager
